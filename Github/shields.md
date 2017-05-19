@@ -9,7 +9,7 @@
 ![Progress](https://img.shields.io/badge/Progress-100%25-00CD00.svg?colorA=8968CD&colorB=00CD00)
 
 ## GITHUB
-https://img.shields.io/github/release/Blackwindrunner/ghost.svg
+![GitHub Release](https://img.shields.io/github/release/Blackwindrunner/ghost.svg)
 
 
 
