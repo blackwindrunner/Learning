@@ -1,9 +1,4 @@
 !.gitignore
-BTTTestSuit/AccessibilityCase/*
-*/deliverables
-*/logs
-*/bin
-**/bin
 
 # Compiled source #
 ###################
