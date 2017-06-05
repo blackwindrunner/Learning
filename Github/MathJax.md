@@ -1,3 +1,5 @@
+<script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
 1. 平方差公式
 $ a^2-b^2= (a+b)(a-b) $
 2. 立方差公式
